@@ -1,0 +1,4 @@
+Browser=chrome
+ChromeDriver=/bin/chromedriver
+Url=https:http://react-sahayaka.qwinix.net
+Environment=local
